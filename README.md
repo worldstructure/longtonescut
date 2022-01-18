@@ -3,5 +3,8 @@
 shorten excessive long tones of piano midi automatically transformed by program from audio, strengthen readability
 在命令行直接python transmidi.py即可
 just enter python transmidi.py in command line
-(https://github.com/worldstructure/longtonescut/blob/main/before.png)
+
+前：
+![Image text](https://github.com/worldstructure/longtonescut/blob/main/before.png)
+后：
 ![Image text](https://github.com/worldstructure/longtonescut/blob/main/after.png)
