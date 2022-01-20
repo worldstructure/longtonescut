@@ -3,6 +3,8 @@
 
 rename to 0.mid,shorten excessive long tones of piano midi automatically transformed by program from audio, strengthen readability  
 
+需要python-midi包(https://github.com/vishnubob/python-midi/tree/feature/python3)
+
 重命名为0.mid,拷贝至同一目录下,在命令行直接python transmidi.py即可. 脚本中的bound为长音截断值，可灵活调节  
 
 rename to 0.mid,coby to same directory,just enter python transmidi.py in command line.   the bound in script is adjustable
