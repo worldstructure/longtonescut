@@ -11,6 +11,6 @@ rename to 0.mid,coby to same directory,just enter python transmidi.py in command
 
 
 前：
-![Image text](https://github.com/worldstructure/longtonescut/blob/main/before.png)
+![image](https://github.com/worldstructure/longtonescut/blob/main/before.png)
 后：
-![Image text](https://github.com/worldstructure/longtonescut/blob/main/after.png)
+![image](https://github.com/worldstructure/longtonescut/blob/main/after.png)
